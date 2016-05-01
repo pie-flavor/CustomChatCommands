@@ -3,7 +3,7 @@ plugins {
 }
 group 'flavor.pie'
 version '1.3.0'
-description 'Does things'
+description 'A plugin for Sponge that lets you create commands that output text to custom chat formats.'
 
 dependencies {
     compile 'org.spongepowered:spongeapi:4.0.3'
