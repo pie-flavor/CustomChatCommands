@@ -215,6 +215,7 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 .gradle
+.gradle/
 build/
 
 # Ignore Gradle GUI config
